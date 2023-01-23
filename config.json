@@ -1,0 +1,27 @@
+{
+    "ownerNumber": ["6289513081052@s.whatsapp.net"], 
+    "ownerName": "𝐀𝐃𝐑𝐈𝐀𝐍", 
+    "instagram" : "https://instagram.com/adrianpreset03", 
+    "botName": "𝑨𝑫𝑹𝑰𝑨𝑵 𝑿 𝑵𝑨𝑰𝑺𝑨 • 6285860928363", 
+    "footer": "AdriannnXD", 
+    "sessionName": "session", 
+    "fotoDonasi": "./Donasi.jpg", 
+    "pathimg": "./AdrianXD.jpg", 
+    "BotKey": "AdrianXD", 
+    "audio_di_bagian_menu": "./menu.mp3", 
+    "auto_welcomeMsg": false, 
+    "auto_leaveMsg": false, 
+    "antiViewOnce": true,
+    "antiDelete": true,
+    "autobio": true,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
